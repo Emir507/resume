@@ -1,0 +1,5 @@
+.home {
+  position: relative;
+  height: 100vh;
+  background: url('img/nature.jpg') center center / cover no-repeat;
+}
